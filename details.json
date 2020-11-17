@@ -1,0 +1,28 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "https://raw.githubusercontent.com/iconslovenia/about/main/logo/ICON-Slovenia-256.png",
+      "logo_1024": "https://raw.githubusercontent.com/iconslovenia/about/main/logo/ICON-Slovenia-1024.png",
+      "logo_svg": ""
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/iconslovenia",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "DE",
+      "city": "Nuremberg"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "116.203.207.222:9000"
+  }
+}
